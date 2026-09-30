@@ -9,6 +9,6 @@
 | [🌸 **Arch Dotfiles**](https://github.com/pajanekkk/dotfiles) | *Moje Arch dotfiles* |
 | [🔮 **BFS pro pacienta 0**](https://github.com/pajanekkk/BFS-pro-pacienta-nula) | *Algoritmus pro hledaní uzlů v TG* |
 
-*Přiznávám, že je to trochu bláznovství všechny tyhle věci*
+***Přiznávám, že je to trochu bláznovství všechny tyhle věci***
 </div>
 
